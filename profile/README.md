@@ -1,12 +1,44 @@
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FutsalGO-Pesan%20Lapangan%20Mudah-00BFFF?style=for-the-badge&logo=github" alt="FutsalGO Banner"/>
+</p>
 
-# 👋 Welcome to FutsalGO
-
-⚽️ Kami adalah komunitas/organization yang fokus di dunia futsal.  
-🎯 Tujuan kami: menghubungkan pemain, tim, dan event futsal dalam satu platform.  
-
-## 🚀 Repository Kami
-- [FutsalGO API](https://github.com/FutsalGO/futsalgo-api.git)
-- [FutsalGO UI](https://github.com/FutsalGO/futsalgo-ui.git)
+<!-- Animasi Teks -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=⚽+Selamat+Datang+di+FutsalGO!;🚀+Pesan+Lapangan+Futsal+Kapan+Saja+Dimana+Saja;✨+Solusi+Digital+untuk+Pemilik+Lapangan+Futsal" alt="Animasi Teks"/>
+</p>
 
 ---
-💌 Hubungi kami di [WhatsApp](https://wa.me/62xxxxxx) atau [Instagram](https://instagram.com/futsalgo)
+
+## 👋 Tentang Kami
+
+**FutsalGO** adalah platform pemesanan lapangan futsal secara **online maupun offline**.  
+Kami hadir untuk membantu pemilik lapangan futsal agar usahanya lebih mudah dipesan, sekaligus memudahkan pelanggan melihat jadwal dan melakukan pemesanan tanpa harus datang langsung ke lokasi.
+
+---
+
+## ✨ Fitur Utama
+
+- 📅 **Booking Online & Offline** – pelanggan dapat memilih jadwal sesuai slot yang tersedia
+- 💳 **Pembayaran Praktis** – dukungan pembayaran digital (fitur pengembangan berikutnya)
+- 📊 **Dashboard Pemilik** – pantau pesanan dan jadwal hanya dalam satu halaman
+- 🌐 **Akses Fleksibel** – bisa digunakan oleh tim futsal maupun penyewa individu
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- ⚡ **Backend** → Node.js + Express + Prisma + TypeScript
+- 🎨 **Frontend** → React / Next.js dengan tampilan modern dan responsif
+- 🗄️ **Database** → PostgreSQL / MySQL
+- ☁️ **Deployment** → GitHub Pages
+
+---
+
+## 📂 Repositori Kami
+
+- 🔗 [Aplikasi Frontend](https://github.com/FutsalGO/futsalgo-ui)
+- 🔗 [Layanan Backend](https://github.com/FutsalGO/futsalgo-api) <br/><br/><br/>
+<p align="center">
+  Dibuat dengan ❤️ oleh <b>Tim FutsalGO</b>
+</p>
