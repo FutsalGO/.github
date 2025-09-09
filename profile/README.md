@@ -5,9 +5,8 @@
 🎯 Tujuan kami: menghubungkan pemain, tim, dan event futsal dalam satu platform.  
 
 ## 🚀 Repository Kami
-- [Backend Service](https://github.com/FutsalGO/backend)
-- [Frontend App](https://github.com/FutsalGO/frontend)
-- [Landing Page](https://futsalgo.github.io)
+- [FutsalGO API](https://github.com/FutsalGO/futsalgo-api.git)
+- [FutsalGO UI](https://github.com/FutsalGO/futsalgo-ui.git)
 
 ---
 💌 Hubungi kami di [WhatsApp](https://wa.me/62xxxxxx) atau [Instagram](https://instagram.com/futsalgo)
