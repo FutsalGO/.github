@@ -5,7 +5,7 @@
 
 <!-- Animasi Teks -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=⚽+Selamat+Datang+di+FutsalGO!;🚀+Pesan+Lapangan+Futsal+Kapan+Saja+Dimana+Saja;✨+Solusi+Digital+untuk+Pemilik+Lapangan+Futsal" alt="Animasi Teks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=%E2%9A%BD+Selamat+Datang+di+FutsalGO!;%F0%9F%9A%80+Pesan+Lapangan+Futsal+Kapan+Saja+Dimana+Saja;%E2%9C%A8+Solusi+Digital+untuk+Pemilik+Lapangan+Futsal" alt="Animasi Teks"/>
 </p>
 
 ---
