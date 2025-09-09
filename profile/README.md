@@ -37,8 +37,8 @@ Kami hadir untuk membantu pemilik lapangan futsal agar usahanya lebih mudah dipe
 
 ## 📂 Repositori Kami
 
-- 🔗 [Aplikasi Frontend](https://github.com/FutsalGO/futsalgo-ui)
-- 🔗 [Layanan Backend](https://github.com/FutsalGO/futsalgo-api) <br/><br/><br/>
+- 🔗 [FutsalGO UI](https://github.com/FutsalGO/futsalgo-ui.git)
+- 🔗 [FutsalGO API](https://github.com/FutsalGO/futsalgo-api.git) <br/><br/><br/>
 <p align="center">
   Dibuat dengan ❤️ oleh <b>Tim FutsalGO</b>
 </p>
